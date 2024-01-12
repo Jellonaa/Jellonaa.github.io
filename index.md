@@ -30,7 +30,7 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 `#00ff00`
 
-This site was built using [GitHub Pages](https://pages.github.com/).\
+This site was built using [GitHub Pages](https://pages.github.com/).
 
 [Wikipedia](https://en.wikipedia.org/wiki/What)
 
@@ -59,7 +59,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).\
 @Jellonaa howdy[^1] :cowboy_hat_face:
 
 [^1]: reference 1
-[^2]: (https://www.youtube.com/watch?v=rEq1Z0bjdwc)
+[^2]: [Star Wars: Episode III – Revenge of the Sith](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
